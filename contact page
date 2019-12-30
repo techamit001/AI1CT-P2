@@ -374,7 +374,7 @@ Enter text here...</textarea>
 <br>
 	<table>
 		<span><i>Address</i></span>
-		<address>
+		<h4><address>
 Mail:<br>
 <a href="#">info@allinonecyberteam.com</a><br>
 Phone:<br>
@@ -383,7 +383,7 @@ Phone:<br>
 Allinone Cyberteam Pvt.Ltd.(allinonecyberteam)<br>
 111, FIRST FLOOR, B BLOCK,<br> PEARL GALAXY, Bicholi Mardana, <br>Indore, Madhya Pradesh 452016
 
-		</address>
+		</address></h4>
 	</table>
 <br>
 <div>
